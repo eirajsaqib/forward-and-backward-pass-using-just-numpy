@@ -3,13 +3,6 @@ from tqdm import tqdm
 inputt=np.random.rand(5,5)
 kernel=np.random.rand(3,3)
 kernel2=np.random.rand(2,2)
-
-
-"""
-inputt=np.ones([5,5])
-kernel=np.ones([3,3])
-kernel2=np.ones([2,2])
-"""
 final=np.ones([2,2])
 
 
